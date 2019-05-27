@@ -3,35 +3,9 @@
 #### 介绍
 数据结构与算法摘要以及一些试题
 
-#### 软件架构
-软件架构说明
-
-
-#### 安装教程
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 使用说明
-
-1. xxxx
-2. xxxx
-3. xxxx
-
-#### 参与贡献
-
-1. Fork 本仓库
-2. 新建 Feat_xxx 分支
-3. 提交代码
-4. 新建 Pull Request
-
-
-#### 码云特技
-
-1. 使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2. 码云官方博客 [blog.gitee.com](https://blog.gitee.com)
-3. 你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解码云上的优秀开源项目
-4. [GVP](https://gitee.com/gvp) 全称是码云最有价值开源项目，是码云综合评定出的优秀开源项目
-5. 码云官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6. 码云封面人物是一档用来展示码云会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 章节摘要
+1.  **算法复杂度** 
+- [算法复杂度的定义:是指算法在编写成可执行程序后，运行时所需要的资源，资源包括时间资源和内存资源。](https://baike.baidu.com/item/%E7%AE%97%E6%B3%95%E5%A4%8D%E6%9D%82%E5%BA%A6/210801?fr=aladdin)
+- 一个算法的评价好坏主要从时间复杂度和空间复杂度来考虑。
+- 常见的时间复杂度有：常数阶O(1),对数阶O(log2n)(以2为底n的对数，下同),线性阶O(n),线性对数阶O(nlog2n),平方阶O(n^2)，立方阶O(n^3),...，k次方阶O(n^k),指数阶O(2^n)。随着问题规模n的不断增大，上述时间复杂度不断增大，算法的执行效率越低。
+- 空间复杂度是指算法在计算机内执行时所需存储空间的度量。记作:S(n)=O(f(n))
